@@ -47,7 +47,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Programming Languages
 
-<p style="display: inline-flex">
+<p align="center">
     <img style="padding: 10px;" src="images/ProgrammingLanguages/python.svg" alt="Python" title="Python" width="54" height="54"/>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/typescript.svg" alt="TypeScript" title="TypeScript" width="54" height="54"/>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/javascript.svg" alt="JavaScript" title="JavaScript" width="54" height="54"/>
@@ -55,7 +55,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Frontend Development
 
-<p style="display: inline-flex">
+<p align="center">
     <img style="padding: 10px;" src="images/FrontendDevelopment/angularjs.svg" alt="Angular" title="Angular" width="54" height="54"/>
     <img style="padding: 10px;" src="images/FrontendDevelopment/html.svg" alt="HTML" title="HTML" width="54" height="54"/>
     <img style="padding: 10px;" src="images/FrontendDevelopment/css.svg" alt="CSS" title="CSS" width="54" height="54"/>
@@ -66,7 +66,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Backend Development
 
-<p style="display: inline-flex">
+<p align="center">
     <img style="padding: 10px;" src="images/BackendDevelopment/nodejs.svg" alt="Nodejs" title="Nodejs" width="54" height="54"/>
     <img style="padding: 10px;" src="images/BackendDevelopment/nginx.svg" alt="Nginx" title="Nginx" width="54" height="54"/>
 </p>
@@ -74,7 +74,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Framework
 
-<p style="display: inline-flex">
+<p align="center">
     <img style="padding: 10px;" src="images/Framework/django.svg" alt="Django" title="Django" width="74" height="74"/>
     <img style="padding: 10px;" src="images/Framework/flask.svg" alt="Flask" title="Flask" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Framework/fastapi.png" alt="FastAPI" title="FastAPI" width="120" height="60"/>
@@ -83,7 +83,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Database
 
-<p style="display: inline-flex">
+<p align="center">
     <img style="padding: 10px;" src="images/Database/mysql.svg" alt="MySQL" title="MySQL" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Database/mongodb.svg" alt="MongoDB" title="MongoDB" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Database/redis.svg" alt="Redis" title="Redis" width="54" height="54"/>
@@ -97,7 +97,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> DevOps
 
-<p style="display: inline-flex">
+<p align="center">
     <img style="padding: 10px;" src="images/Devops/aws.svg" alt="AWS" title="AWS" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Devops/gcp.svg" alt="GCP" title="GCP" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Devops/azure.svg" alt="Azure" title="Azure" width="54" height="54"/>
@@ -110,7 +110,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Automation
 
-<p style="display: inline-flex">
+<p align="center">
     <img style="padding: 10px;" src="images/Automation/selenium.svg" alt="Selenium" title="Selenium" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Automation/zapier.svg" alt="Zapier" title="Zapier" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Automation/UiPath_Logo.svg" alt="UiPath" title="UiPath" width="150" height="100"/>
@@ -121,7 +121,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Software & Tools
 
-<p style="display: inline-flex">
+<p align="center">
     <img style="padding: 10px;" src="images/Tools/git.svg" alt="Git" title="Git" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Tools/postman.svg" alt="Postman" title="Postman" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Tools/gulp.svg" alt="Gulp" title="Gulp" width="54" height="54"/>
@@ -148,14 +148,14 @@ Feel free to contact me at any time for anything.
 
 ## <img src="icons/hire_me.png" width="40" height="40"> Hire Me
 
-<a style="text-decoration: none; color: white !important; border: none; padding: 15px; font-size: 16px; font-family: 'Roboto Mono', monospace; background-color: royalblue; font-weight: 500; cursor: pointer; text-align: center; display: inline-flex; align-content: space-evenly;" target="_blank" href="https://www.fiverr.com/jaytrivedi531">
-    <img src="icons/fiverr_favicon.ico" title="Fiverr"/>
-</a>
-
-<a style="text-decoration: none; color: white !important; border: none; padding: 15px; font-size: 16px; font-family: 'Roboto Mono', monospace; background-color: royalblue; font-weight: 500; cursor: pointer; text-align: center; display: inline-flex; align-content: space-evenly;" target="_blank" href="https://www.upwork.com/freelancers/~0113a0076e71b2a1df">
-    <img src="icons/upwork_favicon.ico" title="Upwork"/>
-</a>
-
+<p align="center">
+    <a target="_blank" href="https://www.fiverr.com/jaytrivedi531">
+        <img src="icons/fiverr_favicon.ico" title="Fiverr"/>
+    </a>
+    <a target="_blank" href="https://www.upwork.com/freelancers/~0113a0076e71b2a1df">
+        <img src="icons/upwork_favicon.ico" title="Upwork"/>
+    </a>
+</p>
 
 ## <img src="icons/whatsapp_calling.gif" width="40" height="40" /> Contact Me
 
@@ -163,8 +163,8 @@ Feel free to contact me for anything.
 
 **Note: Provided information is used only to connect with you.**
 
-<a style="text-decoration: none; color: white !important; border: none; padding: 15px; font-size: 16px; font-family: 'Roboto Mono', monospace; background-color: limegreen; font-weight: 500; cursor: pointer; text-align: center; display: inline-flex; align-content: space-evenly;" target="_blank" href="https://forms.gle/LJKV2XKpHHVKtZvKA">
-    <img src="icons/phone-call.png" width="64" height="64" title="Contact Me"/>
+<a target="_blank" href="https://forms.gle/LJKV2XKpHHVKtZvKA">
+    <img src="icons/phone-call.png" width="54" height="54" title="Contact Me"/>
 </a>
 
 
