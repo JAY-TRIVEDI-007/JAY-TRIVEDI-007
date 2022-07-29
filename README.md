@@ -1,14 +1,14 @@
 # Hi <img src="emojis/waving_hand.gif" width="45" height="45" style="padding: 0; margin: 0;"/>, I'm Jay Trivedi
 
 
-<p style="text-align: center">
+<p align="center">
     <a href="https://github.com/JAY-TRIVEDI-007" target="_blank">
         <img src="images/JT_Card.gif" alt="JAY-TRIVEDI-007"/>
     </a>
 </p>
 
-<p style="text-align: center">
-    <a href="https://git.io/typing-svg" target="_blank">
+<p align="center">
+    <a href="https://github.com/JAY-TRIVEDI-007" target="_blank">
         <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=6000&color=6100FF&width=500&lines=Full+Stack+Python+Developer;Automation+Engineer;Angular+Developer;DevOps+Associate+Engineer;Database+Associate+Developer"/>
     </a>
 </p>
@@ -28,7 +28,7 @@
 
 Feel free to contact me at any time for anything.
 
-<p style="display: inline-flex;">
+<p>
     <a style="cursor: pointer; padding: 10px" title="GitHub" target="_blank" href="https://github.com/JAY-TRIVEDI-007"><img src="icons/github.svg" alt="GitHub" height="30" width="40"/></a>
     <a style="cursor: pointer; padding: 10px" title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/jay-trivedi-09aa791a4/"><img src="icons/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
     <a style="cursor: pointer; padding: 10px" title="Discord" target="_blank" href="https://discordapp.com/users/906490433994104852"><img src="icons/discord.svg" alt="Discord" height="30" width="40"/></a>
@@ -47,7 +47,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Programming Languages
 
-<p align="center">
+<p>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/python.svg" alt="Python" title="Python" width="54" height="54"/>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/typescript.svg" alt="TypeScript" title="TypeScript" width="54" height="54"/>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/javascript.svg" alt="JavaScript" title="JavaScript" width="54" height="54"/>
@@ -55,7 +55,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Frontend Development
 
-<p align="center">
+<p>
     <img style="padding: 10px;" src="images/FrontendDevelopment/angularjs.svg" alt="Angular" title="Angular" width="54" height="54"/>
     <img style="padding: 10px;" src="images/FrontendDevelopment/html.svg" alt="HTML" title="HTML" width="54" height="54"/>
     <img style="padding: 10px;" src="images/FrontendDevelopment/css.svg" alt="CSS" title="CSS" width="54" height="54"/>
@@ -66,7 +66,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Backend Development
 
-<p align="center">
+<p>
     <img style="padding: 10px;" src="images/BackendDevelopment/nodejs.svg" alt="Nodejs" title="Nodejs" width="54" height="54"/>
     <img style="padding: 10px;" src="images/BackendDevelopment/nginx.svg" alt="Nginx" title="Nginx" width="54" height="54"/>
 </p>
@@ -74,7 +74,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Framework
 
-<p align="center">
+<p>
     <img style="padding: 10px;" src="images/Framework/django.svg" alt="Django" title="Django" width="74" height="74"/>
     <img style="padding: 10px;" src="images/Framework/flask.svg" alt="Flask" title="Flask" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Framework/fastapi.png" alt="FastAPI" title="FastAPI" width="120" height="60"/>
@@ -83,7 +83,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Database
 
-<p align="center">
+<p>
     <img style="padding: 10px;" src="images/Database/mysql.svg" alt="MySQL" title="MySQL" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Database/mongodb.svg" alt="MongoDB" title="MongoDB" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Database/redis.svg" alt="Redis" title="Redis" width="54" height="54"/>
@@ -97,7 +97,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> DevOps
 
-<p align="center">
+<p>
     <img style="padding: 10px;" src="images/Devops/aws.svg" alt="AWS" title="AWS" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Devops/gcp.svg" alt="GCP" title="GCP" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Devops/azure.svg" alt="Azure" title="Azure" width="54" height="54"/>
@@ -110,7 +110,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Automation
 
-<p align="center">
+<p>
     <img style="padding: 10px;" src="images/Automation/selenium.svg" alt="Selenium" title="Selenium" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Automation/zapier.svg" alt="Zapier" title="Zapier" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Automation/UiPath_Logo.svg" alt="UiPath" title="UiPath" width="150" height="100"/>
@@ -121,7 +121,7 @@ Feel free to contact me at any time for anything.
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Software & Tools
 
-<p align="center">
+<p>
     <img style="padding: 10px;" src="images/Tools/git.svg" alt="Git" title="Git" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Tools/postman.svg" alt="Postman" title="Postman" width="54" height="54"/>
     <img style="padding: 10px;" src="images/Tools/gulp.svg" alt="Gulp" title="Gulp" width="54" height="54"/>
@@ -148,7 +148,7 @@ Feel free to contact me at any time for anything.
 
 ## <img src="icons/hire_me.png" width="40" height="40"> Hire Me
 
-<p align="center">
+<p>
     <a target="_blank" href="https://www.fiverr.com/jaytrivedi531">
         <img src="icons/fiverr_favicon.ico" title="Fiverr"/>
     </a>
