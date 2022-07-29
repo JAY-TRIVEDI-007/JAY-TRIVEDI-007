@@ -1,6 +1,5 @@
 # Hi <img src="emojis/waving_hand.gif" width="45" height="45" style="padding: 0; margin: 0;"/>, I'm Jay Trivedi
 
----
 
 <p style="text-align: center">
     <a href="https://github.com/JAY-TRIVEDI-007" target="_blank">
@@ -14,7 +13,6 @@
     </a>
 </p>
 
----
 
 ## <img src="emojis/man_tipping_hand.gif" width="40" height="40" /> About me
 
@@ -24,7 +22,7 @@
 - I also **design** DataBases and Systems.
 - I completed **15+ Projects**.
 - I provide **Full Stack service**.
----
+
 
 ## <img src="emojis/handshake.gif" width="40" height="40"/> Connect with Me
 
@@ -44,78 +42,92 @@ Feel free to contact me at any time for anything.
     <a style="cursor: pointer; padding: 10px" title="CodeWars" target="_blank" href="https://www.codewars.com/users/JAY-TRIVEDI-007"><img src="icons/CodeWars.svg" alt="CodeWars" height="30" width="30"/></a>
 </p>
 
----
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Skills
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Programming Languages
 
-<img style="padding: 10px;" src="images/ProgrammingLanguages/python.svg" alt="Python" title="Python" width="54" height="54"/>
-<img style="padding: 10px;" src="images/ProgrammingLanguages/typescript.svg" alt="TypeScript" title="TypeScript" width="54" height="54"/>
-<img style="padding: 10px;" src="images/ProgrammingLanguages/javascript.svg" alt="JavaScript" title="JavaScript" width="54" height="54"/>
+<p style="display: inline-flex">
+    <img style="padding: 10px;" src="images/ProgrammingLanguages/python.svg" alt="Python" title="Python" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/ProgrammingLanguages/typescript.svg" alt="TypeScript" title="TypeScript" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/ProgrammingLanguages/javascript.svg" alt="JavaScript" title="JavaScript" width="54" height="54"/>
+</p>
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Frontend Development
 
-<img style="padding: 10px;" src="images/FrontendDevelopment/angularjs.svg" alt="Angular" title="Angular" width="54" height="54"/>
-<img style="padding: 10px;" src="images/FrontendDevelopment/html.svg" alt="HTML" title="HTML" width="54" height="54"/>
-<img style="padding: 10px;" src="images/FrontendDevelopment/css.svg" alt="CSS" title="CSS" width="54" height="54"/>
-<img style="padding: 10px;" src="images/FrontendDevelopment/bootstrap.svg" alt="BootStrap" title="BootStrap" width="54" height="54"/>
-<img style="padding: 10px;" src="images/FrontendDevelopment/qt.svg" alt="Qt" title="Qt" width="54" height="54"/>
+<p style="display: inline-flex">
+    <img style="padding: 10px;" src="images/FrontendDevelopment/angularjs.svg" alt="Angular" title="Angular" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/FrontendDevelopment/html.svg" alt="HTML" title="HTML" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/FrontendDevelopment/css.svg" alt="CSS" title="CSS" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/FrontendDevelopment/bootstrap.svg" alt="BootStrap" title="BootStrap" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/FrontendDevelopment/qt.svg" alt="Qt" title="Qt" width="54" height="54"/>
+</p>
 
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Backend Development
 
-<img style="padding: 10px;" src="images/BackendDevelopment/nodejs.svg" alt="Nodejs" title="Nodejs" width="54" height="54"/>
-<img style="padding: 10px;" src="images/BackendDevelopment/nginx.svg" alt="Nginx" title="Nginx" width="54" height="54"/>
+<p style="display: inline-flex">
+    <img style="padding: 10px;" src="images/BackendDevelopment/nodejs.svg" alt="Nodejs" title="Nodejs" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/BackendDevelopment/nginx.svg" alt="Nginx" title="Nginx" width="54" height="54"/>
+</p>
 
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Framework
 
-<img style="padding: 10px;" src="images/Framework/django.svg" alt="Django" title="Django" width="74" height="74"/>
-<img style="padding: 10px;" src="images/Framework/flask.svg" alt="Flask" title="Flask" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Framework/fastapi.png" alt="FastAPI" title="FastAPI" width="120" height="60"/>
+<p style="display: inline-flex">
+    <img style="padding: 10px;" src="images/Framework/django.svg" alt="Django" title="Django" width="74" height="74"/>
+    <img style="padding: 10px;" src="images/Framework/flask.svg" alt="Flask" title="Flask" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Framework/fastapi.png" alt="FastAPI" title="FastAPI" width="120" height="60"/>
+</p>
 
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Database
 
-<img style="padding: 10px;" src="images/Database/mysql.svg" alt="MySQL" title="MySQL" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Database/mongodb.svg" alt="MongoDB" title="MongoDB" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Database/redis.svg" alt="Redis" title="Redis" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Database/elasticsearch.svg" alt="Elastic Search" title="Elastic Search" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Database/sqlite.svg" alt="SQLite" title="SQLite" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Database/postgresql.svg" alt="Postgresql" title="Postgresql" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Database/mariadb.svg" alt="MariaDB" title="MariaDB" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Database/oracle.svg" alt="Oracle" title="Oracle" width="54" height="54"/>
+<p style="display: inline-flex">
+    <img style="padding: 10px;" src="images/Database/mysql.svg" alt="MySQL" title="MySQL" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Database/mongodb.svg" alt="MongoDB" title="MongoDB" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Database/redis.svg" alt="Redis" title="Redis" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Database/elasticsearch.svg" alt="Elastic Search" title="Elastic Search" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Database/sqlite.svg" alt="SQLite" title="SQLite" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Database/postgresql.svg" alt="Postgresql" title="Postgresql" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Database/mariadb.svg" alt="MariaDB" title="MariaDB" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Database/oracle.svg" alt="Oracle" title="Oracle" width="54" height="54"/>
+</p>
 
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> DevOps
 
-<img style="padding: 10px;" src="images/Devops/aws.svg" alt="AWS" title="AWS" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Devops/gcp.svg" alt="GCP" title="GCP" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Devops/azure.svg" alt="Azure" title="Azure" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Devops/docker.svg" alt="Docker" title="Docker" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Devops/jenkins.svg" alt="Jenkins" title="Jenkins" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Devops/bash.svg" alt="Bash" title="Bash" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Devops/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="54" height="54"/>
+<p style="display: inline-flex">
+    <img style="padding: 10px;" src="images/Devops/aws.svg" alt="AWS" title="AWS" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Devops/gcp.svg" alt="GCP" title="GCP" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Devops/azure.svg" alt="Azure" title="Azure" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Devops/docker.svg" alt="Docker" title="Docker" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Devops/jenkins.svg" alt="Jenkins" title="Jenkins" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Devops/bash.svg" alt="Bash" title="Bash" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Devops/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="54" height="54"/>
+</p>
 
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Automation
 
-<img style="padding: 10px;" src="images/Automation/selenium.svg" alt="Selenium" title="Selenium" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Automation/zapier.svg" alt="Zapier" title="Zapier" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Automation/UiPath_Logo.svg" alt="UiPath" title="UiPath" width="150" height="100"/>
-<img style="padding: 10px;" src="images/Automation/automation_anywhere.svg" alt="Automation Anywhere" title="Automation Anywhere" width="150" height="64"/>
-<img style="padding: 10px;" src="images/Automation/ifttt.svg" alt="IFTTT" title="IFTTT" width="74" height="74"/>
+<p style="display: inline-flex">
+    <img style="padding: 10px;" src="images/Automation/selenium.svg" alt="Selenium" title="Selenium" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Automation/zapier.svg" alt="Zapier" title="Zapier" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Automation/UiPath_Logo.svg" alt="UiPath" title="UiPath" width="150" height="100"/>
+    <img style="padding: 10px;" src="images/Automation/automation_anywhere.svg" alt="Automation Anywhere" title="Automation Anywhere" width="150" height="64"/>
+    <img style="padding: 10px;" src="images/Automation/ifttt.svg" alt="IFTTT" title="IFTTT" width="74" height="74"/>
+</p>
 
 
 ### <img src="emojis/backhand_index_pointing_right.gif" width="35" height="35"/> Software & Tools
 
-<img style="padding: 10px;" src="images/Tools/git.svg" alt="Git" title="Git" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Tools/postman.svg" alt="Postman" title="Postman" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Tools/gulp.svg" alt="Gulp" title="Gulp" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Tools/figma.svg" alt="Figma" title="Figma" width="54" height="54"/>
-<img style="padding: 10px;" src="images/Tools/linux.svg" alt="Linux" title="Linux" width="54" height="54"/>
-
+<p style="display: inline-flex">
+    <img style="padding: 10px;" src="images/Tools/git.svg" alt="Git" title="Git" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Tools/postman.svg" alt="Postman" title="Postman" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Tools/gulp.svg" alt="Gulp" title="Gulp" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Tools/figma.svg" alt="Figma" title="Figma" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/Tools/linux.svg" alt="Linux" title="Linux" width="54" height="54"/>
+</p>
 
 
 ---
@@ -147,8 +159,6 @@ Feel free to contact me at any time for anything.
 </a>
 
 
----
-
 ## <img src="icons/whatsapp_calling.gif" width="40" height="40" /> Contact Me
 
 Feel free to contact me for anything.
@@ -160,9 +170,6 @@ Feel free to contact me for anything.
     <span style="padding: 0 0 0 10px;">Contact Me</span>
 </a>
 
----
-
-<br>
 
 #### Attribution to Free tools
 I am thankful to free platforms. I will be grateful to contribute on platforms with my skills.
