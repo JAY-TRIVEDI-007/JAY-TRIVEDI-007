@@ -149,13 +149,11 @@ Feel free to contact me at any time for anything.
 ## <img src="icons/hire_me.png" width="40" height="40"> Hire Me
 
 <a style="text-decoration: none; color: white !important; border: none; padding: 15px; font-size: 16px; font-family: 'Roboto Mono', monospace; background-color: royalblue; font-weight: 500; cursor: pointer; text-align: center; display: inline-flex; align-content: space-evenly;" target="_blank" href="https://www.fiverr.com/jaytrivedi531">
-    <img src="icons/fiverr_favicon.ico" width="25" height="25"/>
-    <span style="padding: 0 0 0 10px;">Fiverr</span>
+    <img src="icons/fiverr_favicon.ico" title="Fiverr"/>
 </a>
 
 <a style="text-decoration: none; color: white !important; border: none; padding: 15px; font-size: 16px; font-family: 'Roboto Mono', monospace; background-color: royalblue; font-weight: 500; cursor: pointer; text-align: center; display: inline-flex; align-content: space-evenly;" target="_blank" href="https://www.upwork.com/freelancers/~0113a0076e71b2a1df">
-    <img src="icons/upwork_favicon.ico" width="25" height="25"/>
-    <span style="padding: 0 0 0 10px;">Upwork</span>
+    <img src="icons/upwork_favicon.ico" title="Upwork"/>
 </a>
 
 
@@ -166,8 +164,7 @@ Feel free to contact me for anything.
 **Note: Provided information is used only to connect with you.**
 
 <a style="text-decoration: none; color: white !important; border: none; padding: 15px; font-size: 16px; font-family: 'Roboto Mono', monospace; background-color: limegreen; font-weight: 500; cursor: pointer; text-align: center; display: inline-flex; align-content: space-evenly;" target="_blank" href="https://forms.gle/LJKV2XKpHHVKtZvKA">
-    <img src="icons/phone-call.png" width="25" height="25"/>
-    <span style="padding: 0 0 0 10px;">Contact Me</span>
+    <img src="icons/phone-call.png" width="64" height="64" title="Contact Me"/>
 </a>
 
 
