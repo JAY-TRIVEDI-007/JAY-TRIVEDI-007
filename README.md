@@ -157,7 +157,7 @@ Feel free to contact me at any time for anything.
     </a>
 </p>
 
-## <img src="icons/phone-call.png" width="40" height="40" title="Contact Me"/> Contact Me
+## <img src="icons/phone-call.png" width="28" height="28" title="Contact Me"/> Contact Me
 
 Feel free to contact me for anything.
 
