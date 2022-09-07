@@ -157,14 +157,14 @@ Feel free to contact me at any time for anything.
     </a>
 </p>
 
-## <img src="icons/whatsapp_calling.gif" width="40" height="40" /> Contact Me
+## <img src="icons/phone-call.png" width="40" height="40" title="Contact Me"/> Contact Me
 
 Feel free to contact me for anything.
 
 **Note: Provided information is used only to connect with you.**
 
 <a target="_blank" href="https://forms.gle/LJKV2XKpHHVKtZvKA">
-    <img src="icons/phone-call.png" width="54" height="54" title="Contact Me"/>
+    <img src="icons/whatsapp_calling.gif" width="54" height="54" />
 </a>
 
 
