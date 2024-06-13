@@ -48,6 +48,7 @@ Feel free to contact me at any time for anything.
     <img style="padding: 10px;" src="images/FrontendDevelopment/html.svg" alt="HTML" title="HTML" width="54" height="54"/>
     <img style="padding: 10px;" src="images/FrontendDevelopment/css.svg" alt="CSS" title="CSS" width="54" height="54"/>
     <img style="padding: 10px;" src="images/FrontendDevelopment/bootstrap.svg" alt="BootStrap" title="BootStrap" width="54" height="54"/>
+    <img style="padding: 10px;" src="images/FrontendDevelopment/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="54" height="54"/>
 </p>
 
 ### 👉 Backend Development
