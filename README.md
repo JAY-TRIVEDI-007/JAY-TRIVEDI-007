@@ -37,9 +37,13 @@ Feel free to contact me at any time for anything.
 
 <p>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/python.svg" alt="Python" title="Python" width="54" height="54"/>
+    <span width="10"></span>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/c-sharp.svg" alt="C#" title="C#" width="54" height="54"/>
+    <span width="10"></span>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/typescript.svg" alt="TypeScript" title="TypeScript" width="54" height="54"/>
+    <span width="10"></span>
     <img style="padding: 10px;" src="images/ProgrammingLanguages/javascript.svg" alt="JavaScript" title="JavaScript" width="54" height="54"/>
+    <span width="10"></span>
 </p>
 
 ### 👉 Frontend Development
